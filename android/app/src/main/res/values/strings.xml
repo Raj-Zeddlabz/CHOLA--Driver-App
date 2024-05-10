@@ -1,0 +1,4 @@
+<resources>
+<string name="default_notification_channel_id">chat</string>
+<string name="default_notification_channel_name">chola_driver</string>
+</resources>
